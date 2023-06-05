@@ -1,4 +1,4 @@
 # talk
 TechTalk 
 
-## Heute ist Dienstag
+## Heute ist Donnerstag
